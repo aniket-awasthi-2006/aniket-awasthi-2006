@@ -3,19 +3,19 @@
 ## About Me 👤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=605&lines=Tech-Xplorer+%7C+Developer+%7C+Designer+%7C+Multitasker)](https://git.io/typing-svg)
 
-🔭 I’m currently working on open source projects
+🔭 I’m currently Studying Btech CST with Sage Univ Indore powered by Sunstone
 
-👯 I’m looking to collaborate on AITR's open source project
+👯 I’m looking to collaborate on Hacktober's open source project
 
-🌱 I’m currently learning Angular
+🌱 I’m currently learning Machine Learning
 
-💬 Ask me about Tech and Open Source
+💬 Ask me about Tech , Design and Development 
 
 ⚡ Fun fact, I can code in day and night both
 
 ## ⚙️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,c,react,html,css,googlecloud)](https://skills.thijs.gg)
 
 ## ❤️ Session's Attended
 
