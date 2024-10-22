@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=aniket-awasthi-2006&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
 ## About Me 👤
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Mentor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=435&lines=Tech-Xplorer+%7C+Developer+%7C+Designer+%7C+Multitasker)](https://git.io/typing-svg)
 
 🔭 I’m currently working on open source projects
 
@@ -39,4 +39,4 @@
 
 ## 📊 GitHub Stats
 
-![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=<your-github-username>&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
+![Aniket's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aniket-awasthi-2006&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
