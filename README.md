@@ -7,7 +7,7 @@
 
 👯 I’m looking to collaborate on Hacktober's open source project
 
-🌱 I’m currently learning development in doifferent fields
+🌱 I’m currently learning development in different fields
 
 💬 Ask me about Tech , Design and Development 
 
