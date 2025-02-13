@@ -19,7 +19,7 @@
 
 ## ❤️ Session's Attended
 
-- #### Understanding Open Source by MU-ACM & [Atharv Vani](https://www.linkedin.com/in/atharv-vani110/)
+- #### Understanding Open Source by MU-ACM & Atharv Vani
 
 ## 🤝 Let's get Connected
 <div align="left">
