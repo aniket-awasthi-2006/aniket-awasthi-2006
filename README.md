@@ -175,7 +175,7 @@ open_to:   Collaborations • Freelance • Cool ideas
 <!-- ░░░░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░░░░ -->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aniket-awasthi-2006&theme=onedark&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1200&color=00A0DC&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="footer typing" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7FE0FF,50:00A0DC,100:0A66C2&section=footer&reversal=true" alt="footer" />
 
 </div>
 
