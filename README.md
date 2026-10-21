@@ -170,16 +170,7 @@ open_to:   Collaborations • Freelance • Cool ideas
 
 </details>
 
-<br/>
-
-<!-- ░░░░░░░░░░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░░░░░░░░░░ -->
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1200&color=00A0DC&center=true&vCenter=true&width=520&lines=Thanks+for+stopping+by!+%E2%9C%A8;Let's+build+something+awesome+together+%F0%9F%9A%80" alt="footer typing" /> </div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:7FE0FF,50:00A0DC,100:0A66C2&section=footer&reversal=true" alt="footer" />
-
-</div>
-
-<br/>
+<br/> <!-- ░░░░░░░░░░░░░░░░░░░░░ TROPHIES ░░░░░░░░░░░░░░░░░░░░░ --> <h2 align="center">🏆 Highlights</h2> <div align="center"> <img src="https://img.shields.io/badge/🏅%20Passion-Mobile%20Apps-0A66C2?style=for-the-badge&labelColor=0D1B2A" /> <img src="https://img.shields.io/badge/🎨%20Focus-Clean%20UI%20%26%20UX-00A0DC?style=for-the-badge&labelColor=0D1B2A" /> <img src="https://img.shields.io/badge/⚡%20Mindset-Always%20Learning-7FE0FF?style=for-the-badge&labelColor=0D1B2A&color=7FE0FF" /> <br/> <img src="https://img.shields.io/badge/🚀%20Goal-Ship%20Great%20Products-0A66C2?style=for-the-badge&labelColor=0D1B2A" /> <img src="https://img.shields.io/badge/🤝%20Status-Open%20to%20Collaborate-00A0DC?style=for-the-badge&labelColor=0D1B2A" /> </div> <br/>
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░  CONNECT  ░░░░░░░░░░░░░░░░░░░░░ -->
 <h2 align="center">🌐 Let's Connect</h2>
