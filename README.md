@@ -119,17 +119,17 @@ open_to:   Collaborations • Freelance • Cool ideas
 <!-- ✏️ Replace repo names with your own pinned projects -->
 <div align="center">
 
-<a href="https://github.com/aniket-awasthi-2006/YOUR_PROJECT_1">
+<a href="https://github.com/aniket-awasthi-2006/Aki-Cricket">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-awasthi-2006&repo=YOUR_PROJECT_1&hide_border=true&bg_color=0D1B2A&title_color=00A0DC&icon_color=7FE0FF&text_color=E0F4FF" />
 </a>
-<a href="https://github.com/aniket-awasthi-2006/YOUR_PROJECT_2">
+<a href="https://github.com/aniket-awasthi-2006/Vr.Mouse">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-awasthi-2006&repo=YOUR_PROJECT_2&hide_border=true&bg_color=0D1B2A&title_color=00A0DC&icon_color=7FE0FF&text_color=E0F4FF" />
 </a>
 <br/>
-<a href="https://github.com/aniket-awasthi-2006/YOUR_PROJECT_3">
+<a href="https://github.com/aniket-awasthi-2006/Tech-Titans_HC01_SAGE">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-awasthi-2006&repo=YOUR_PROJECT_3&hide_border=true&bg_color=0D1B2A&title_color=00A0DC&icon_color=7FE0FF&text_color=E0F4FF" />
 </a>
-<a href="https://github.com/aniket-awasthi-2006/YOUR_PROJECT_4">
+<a href="https://github.com/aniket-awasthi-2006/NeXora_Ai_FlashCards">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aniket-awasthi-2006&repo=YOUR_PROJECT_4&hide_border=true&bg_color=0D1B2A&title_color=00A0DC&icon_color=7FE0FF&text_color=E0F4FF" />
 </a>
 
