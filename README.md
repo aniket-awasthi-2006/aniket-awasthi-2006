@@ -23,13 +23,13 @@
 
 ## 🤝 Let's get Connected
 <div align="left">
-  <a href="<your-linkedin-profile-url>" target="_blank">
+  <a href="https://www.linkedin.com/in/aniket-awasthi-appdev" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:<your-email-address>" target="_blank">
+  <a href="mailto:aniket.awasthi.developer@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/<your-instagram-username>" target="_blank">
+  <a href="https://www.instagram.com/aniket_awasthi_code" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
