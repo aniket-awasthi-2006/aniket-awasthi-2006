@@ -63,9 +63,9 @@ open_to:   Collaborations • Freelance • Cool ideas
 <div align="center">
 
 <!-- ✏️ Add/remove icons: https://github.com/tandpfun/skill-icons#readme -->
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase,react,js,ts,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,firebase,react,js,ts,nodejs&theme=dark" />
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=java,python,mongodb,mysql,figma,git,github,postman,vscode,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python,mongodb,mysql,figma,git,github,vscode&theme=dark" />
 
 <br/><br/>
 
